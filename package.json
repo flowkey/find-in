@@ -1,0 +1,26 @@
+{
+  "name": "@flowkey/find-in",
+  "version": "1.0.0",
+  "description": "Safely fetch a value via period-delimited path string from a (nested) object or array. e.g. `findIn(nullableObject, \"a.path[0].string\")`",
+  "keywords": [
+    "optional",
+    "keyPath",
+    "safe",
+    "nested",
+    "suboject"
+  ],
+  "main": "findIn.js",
+  "author": "flowkey GmbH",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowkey/find-in.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowkey/find-in/issues"
+  },
+  "homepage": "https://github.com/flowkey/find-in#readme"
+}
